@@ -18,7 +18,7 @@ BiGraph</a>.<br>
   </tr>
   <tr>
     <td>Soran Ghaderi</td>
-    <td><a href="soran-ghaderi.github.io">soran-ghaderi.github.io</a></td>
+    <td><a href="https://soran-ghaderi.github.io">soran-ghaderi.github.io</a></td>
     <td><a href="https://github.com/soran-ghaderi">github.com/soran-ghaderi</a></td>
     <td><a href="https://www.linkedin.com/in/soran-ghaderi/">linkedin.com/in/soran-ghaderi/</a></td>
     <td><a href="https://twitter.com/soranghadri">twitter.com/soranghadri</a></td>
