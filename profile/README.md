@@ -1,6 +1,5 @@
 # App heap
-In this organization, we share stand-alone applications and python packages to assist developers with easing their 
-projects' development.<br>
+In this organization, we share standalone applications and Python packages to assist developers. <br>
 Repositories and packages shared here are not research-assistant packages and, hence, we have another organization 
 aimed to help researchers in the field of machine learning, named <a href="https://github.com/bi-graph/bigraph">
 BiGraph</a>.<br>
