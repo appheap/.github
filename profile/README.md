@@ -1,12 +1,16 @@
+<div align="center">
+
 # App heap
-In this organization, we share standalone applications and Python packages to assist developers. <br>
-Repositories and packages shared here are not research-assistant packages and, hence, we have another organization 
-aimed to help researchers in the field of machine learning, named <a href="https://github.com/bi-graph/bigraph">
-BiGraph</a>.<br>
+</div>
+It is a non-profit organization aiming at developing standalone software, applications, and industry-related projects. Our main programming language is Python, yet, should you like to collaborate on awesome ideas in languages other than Python, we encourage you to reach out to us via email. 
+
+We are also active in other ML-related organizations like <a href="https://github.com/tensorops">TensorOps</a> and <a href="https://github.com/bi-graph/">BiGraph</a>. In TensorOps, we are mainly working on cutting-edge deep learning models and libraries like <a href="https://github.com/tensorops/TransformerX">TransformerX</a> which is aiming for providing researchers with the building blocks they need to develop their transformer-based models.
+
+Also, we have libraries such as <a href="https://github.com/bi-graph/bigraph">Bigraph</a> and <a href="https://github.com/bi-graph/emgraph">
+Emgraph</a> in BiGraph organization, which is dedicated to graphs, geometric deep learning, and related concepts.
 
 
-
-# People
+## People
 <div>
 <table>
   <tr>
